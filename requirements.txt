@@ -1,0 +1,8 @@
+langchain-community 
+chromadb 
+sentence-transformers 
+transformers 
+huggingface-hub 
+torch 
+numpy 
+argparse 
