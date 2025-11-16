@@ -1,8 +1,5 @@
-langchain-community 
-chromadb 
-sentence-transformers 
-transformers 
-huggingface-hub 
-torch 
-numpy 
-argparse 
+<<<<<<< HEAD
+langchain
+chromadb
+sentence-transformers
+ollama
